@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SwaggerApiDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SwaggerApiDemo.war">
+      <element id="artifact" artifact-name="SwaggerApiDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
